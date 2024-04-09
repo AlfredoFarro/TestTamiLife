@@ -8,6 +8,8 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
+      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Publicacion/f:AdministrarPublicacion.aspx" caret="8998" fromTop="7" />
+      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Publicacion/f:AdministrarPublicacion.aspx.cs" caret="2558" fromTop="18" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Publicacion/f:AdministrarMuestrasExportadas.aspx" caret="0" fromTop="0" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Publicacion/f:AdministrarMuestrasExportadas.aspx.cs" caret="5477" fromTop="24" />
       <File id="6C5416A9-B32C-4740-BD28-CCA2EF7FE5D7/f:MuestraBC.cs" caret="7802" fromTop="11" />
@@ -25,6 +27,7 @@
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Publicacion/f:WebFormPrueba.aspx.cs" caret="417" fromTop="18" />
       <File id="A9C42AAF-CB5E-4847-9506-505172FF0128/f:MuestraDA.cs" caret="28284" fromTop="521" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/f:Site.Master.designer.cs" caret="0" fromTop="0" />
+      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Styles/f:Site.css" caret="606" fromTop="0" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Resultados/f:ResultadosEstablecimiento.aspx" caret="0" fromTop="0" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/f:Site.Master.cs" caret="0" fromTop="0" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Resultados/f:BuscarResultado.aspx.designer.cs" caret="0" fromTop="0" />
@@ -34,12 +37,11 @@
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/f:Reportes.cs" caret="0" fromTop="0" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Resultados/f:BuscarResultado.aspx" caret="7106" fromTop="46" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:AdministrarUsuarios.aspx" caret="1274" fromTop="11" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:Login.aspx" caret="3704" fromTop="46" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Styles/f:Site.css" caret="4320" fromTop="0" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Styles/f:EstiloNuevos.css" caret="0" fromTop="0" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Resultados/f:AdministrarEstablecimientosNewCSS.aspx" caret="0" fromTop="0" />
+      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:Login.aspx" caret="4076" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
+      <File id="A9C42AAF-CB5E-4847-9506-505172FF0128/f:ResultadoDA.cs" caret="27775" fromTop="13" />
+      <File id="A9C42AAF-CB5E-4847-9506-505172FF0128/f:AccesoDB.cs" caret="4602" fromTop="35" />
       <File id="A9C42AAF-CB5E-4847-9506-505172FF0128/f:AccesoDB.cs" caret="3209" fromTop="11" />
       <File id="A9C42AAF-CB5E-4847-9506-505172FF0128/f:AccesoDB.cs" caret="3910" fromTop="23" />
       <File id="A9C42AAF-CB5E-4847-9506-505172FF0128/f:AccesoDB.cs" caret="989" fromTop="22" />
@@ -66,10 +68,8 @@
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Publicacion/f:WebFormPrueba.aspx.cs" caret="438" fromTop="17" />
       <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Publicacion/f:WebFormPrueba.aspx" caret="665" fromTop="11" />
       <File id="A9C42AAF-CB5E-4847-9506-505172FF0128/f:MuestraDA.cs" caret="28284" fromTop="563" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:Login.aspx" caret="3881" fromTop="10" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:Login.aspx" caret="3883" fromTop="11" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:Login.aspx" caret="4072" fromTop="16" />
-      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Styles/f:EstiloNuevos.css" caret="0" fromTop="0" />
+      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:Login.aspx" caret="3883" fromTop="10" />
+      <File id="6291CEE5-6E4F-4BAD-8438-B22A6BEAACA3/d:Account/f:Login.aspx" caret="4076" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

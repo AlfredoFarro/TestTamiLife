@@ -135,11 +135,9 @@
     <Content Include="Publicacion\PublicarResultados.aspx" />
     <Content Include="Publicacion\PublicarResultadosINMP.aspx" />
     <Content Include="Publicacion\WebFormPrueba.aspx" />
-    <Content Include="Resultados\AdministrarEstablecimientosNewCSS.aspx" />
     <Content Include="Resultados\BuscarResultado.aspx" />
     <Content Include="Resultados\ResultadosEstablecimiento.aspx" />
     <Content Include="Scripts\ScriptFile.js" />
-    <Content Include="Styles\EstiloNuevos.css" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
@@ -351,13 +349,6 @@
       <DependentUpon>RegistrarMuestra.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Resultados\AdministrarEstablecimientosNewCSS.aspx.cs">
-      <DependentUpon>AdministrarEstablecimientosNewCSS.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Resultados\AdministrarEstablecimientosNewCSS.aspx.designer.cs">
-      <DependentUpon>AdministrarEstablecimientosNewCSS.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Resultados\BuscarResultado.aspx.cs">
       <DependentUpon>BuscarResultado.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
